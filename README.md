@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 👨‍💻 All of my projects are available at [ndeguillaume.github.io/](ndeguillaume.github.io/)
+- 👨‍💻 All of my projects are available on [my website](ndeguillaume.github.io/)
 
 - 📫 How to reach me **nicolasdeguillaume@gmail.com**
 
-- 📄 Know about my experiences [ndeguillaume.github.io/cf.pdf](ndeguillaume.github.io/cf.pdf)
+- 📄 [Know about my experiences](ndeguillaume.github.io/cf.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
